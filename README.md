@@ -6,8 +6,7 @@
 
 <p>
 
-Merhaba 👋, ben **Pedox** ❤ 
-hevesli ve iddialı bir full stack geliştiriciyim. Web Geliştirme, JavaScript ve Tasarım konularında uzmanlaştım. Yeni topluluklara katılmayı, network kurmayı ve değer katmayı çok seviyorum ✨
+Merhaba 👋, ben **Pedox** ❤ → hevesli ve iddialı bir full stack geliştiriciyim. Web Geliştirme, JavaScript ve Tasarım konularında uzmanlaştım. Yeni topluluklara katılmayı, network kurmayı ve değer katmayı çok seviyorum ✨
 
 <div>
 <details>
