@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/@sxhadedev"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/react" alt="Topluluğumuza Katıl"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/volia" alt="Topluluğumuza Katıl"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <br/>
 
@@ -21,7 +21,7 @@ Merhaba 👋, ben **Pedox** ❤ → hevesli ve iddialı bir full stack geliştir
 
 💬 Bana açık kaynak, web geliştirme ve topluluk yönetimi hakkında sorular sorabilirsin
 
-📫 Bana ulaşmak için: discord.gg/react
+📫 Bana ulaşmak için: discord.gg/volia
 
 </details>
 
