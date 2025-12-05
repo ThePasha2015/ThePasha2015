@@ -6,7 +6,7 @@
 
 <p>
 
-Merhaba 👋, ben **Pedox** ❤ → hevesli ve iddialı bir full stack geliştiriciyim. Web Geliştirme, JavaScript ve Tasarım konularında uzmanlaştım. Yeni topluluklara katılmayı, network kurmayı ve değer katmayı çok seviyorum ✨
+Merhaba 👋, ben **Shaderuh Was Here** ❤ → hevesli ve iddialı bir full stack geliştiriciyim. Web Geliştirme, JavaScript ve Tasarım konularında uzmanlaştım. Yeni topluluklara katılmayı, network kurmayı ve değer katmayı çok seviyorum ✨
 
 <div>
 <details>
@@ -21,7 +21,7 @@ Merhaba 👋, ben **Pedox** ❤ → hevesli ve iddialı bir full stack geliştir
 
 💬 Bana açık kaynak, web geliştirme ve topluluk yönetimi hakkında sorular sorabilirsin
 
-📫 Bana ulaşmak için: discord.gg/volia
+📫 Bana ulaşmak için discord nickim : p3dx
 
 </details>
 
